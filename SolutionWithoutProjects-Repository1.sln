@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository1", "Repository1", "{4C1EFB23-10F7-42F0-A640-2F1CEAEC8470}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository2", "Repository2", "{A63278E8-E350-4678-BF66-A90026427A82}"
+	ProjectSection(SolutionItems) = preProject
+		..\Repository2\README.md = ..\Repository2\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCFE893-E36B-4063-B4AC-1453ED2FF0C5}
+	EndGlobalSection
+EndGlobal
